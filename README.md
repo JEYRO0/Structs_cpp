@@ -1,2 +1,2 @@
-# Students_struct
+# Structs_cpp
 Homework for ItStep
