@@ -1,2 +1,2 @@
 # Structs_cpp
-Homework for ItStep
+Homework for ItStep that related to Structures
